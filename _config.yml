@@ -23,7 +23,7 @@ repository               : "sajalfatimasurhiyo-lab/sajalfatimasurhiyo-lab.github
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/mypic.png"
+  avatar           : "images/mypic.png"
   name             : "Sajal Fatima Surhiyo"
   pronouns         :  "She/her"  
   bio              : "BSCS Student at The Shaikh Ayaz University, Shikarpur | Web Developer"
