@@ -24,13 +24,13 @@ repository               : "sajalfatimasurhiyo-lab/sajalfatimasurhiyo-lab.github
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Sajal Fatima Surhiyo"
+  pronouns         :  "she/her"  
+  bio              : "BSCS Student at The Shaikh Ayaz University, Shikarpur | Web Developer"
+  location         : "Shikarpur, Sindh, Pakistan"
+  employer         : "The Shaikh Ayaz University, Shikarpur"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sajalfatimasurhiyo@gmail.com" 
 
   # Academic websites
   academia         : # URL
