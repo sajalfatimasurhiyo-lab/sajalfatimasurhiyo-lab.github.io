@@ -15,7 +15,7 @@ redirect_from:
 
 ## Professional Certifications & Training
 
-- **Web Development Training (PITP)** — Sukkur IBA University
+- **Web Development (PITP)** — Sukkur IBA University
 - **Office Automation & Management** — NAVTTC
 - **Meta Introduction to Front-End Development** — Coursera
 - **Meta Programming with JavaScript** — Coursera
