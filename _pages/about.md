@@ -9,17 +9,22 @@ redirect_from:
 
  Hi! I'm **Sajal Fatima Surhiyo**, a Computer Science (BSCS) student at **The Shaikh Ayaz University, Shikarpur**. I am passionate about front-end web development, clean user interfaces, and software engineering.
 
-# Education & Certifications
+## Education & Qualifications
 
 - **BS Computer Science (BSCS)** — The Shaikh Ayaz University, Shikarpur
-- **Diploma in Information Technology (DIT)** — Shaheen Vocational Training Institute, Jacobabad
-- **Certifications:**
-  - Meta Introduction to Front-End Development (Coursera)
-  - Meta Programming with JavaScript (Coursera)
-  - IBM Introduction to Artificial Intelligence (Coursera)
 
-# Experience
-- *Front-End Development Intern* at CodeAlpha
+## Professional Certifications & Training
+
+- **Web Development Training (PITP)** — Sukkur IBA University
+- **Office Automation & Management** — NAVTTC
+- **Meta Introduction to Front-End Development** — Coursera
+- **Meta Programming with JavaScript** — Coursera
+- **IBM Introduction to Artificial Intelligence** — Coursera
+
+## Work Experience & Internships
+
+- **Front-End Development Intern** — CodeAlpha
+ 
   
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
