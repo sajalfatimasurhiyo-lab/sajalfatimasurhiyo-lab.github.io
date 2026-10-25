@@ -1,7 +1,13 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+ ---
+title: "Front-End Web Development Projects"
+excerpt: "Completed a virtual front-end web development internship at CodeAlpha, building responsive web pages and interactive user interfaces."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Internship Overview
+During my internship at **CodeAlpha**, I worked on building responsive, user-friendly, and modern web applications using foundational front-end technologies.
+
+- **Technologies Used:** HTML5, CSS3, JavaScript, Responsive Design
+- **Key Focus:** Translating design wireframes into clean, functional code, optimizing cross-browser compatibility, and building interactive web components.
+- **Organization:** Front-End Development Intern at **CodeAlpha**.
+-
